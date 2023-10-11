@@ -1,4 +1,4 @@
-export function createPage() {
+export function createHomePage() {
 
     const main = document.createElement('main');
 
